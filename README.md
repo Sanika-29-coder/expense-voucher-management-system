@@ -786,6 +786,21 @@ This project was developed as a full-stack web application demonstrating:
 
 ---
 
-# 📄 License
+## 👩‍💻 Developed By
 
-This project was developed for educational and evaluation purposes.
+**Sanika Muluk**
+Computer Engineering Student
+Full-Stack Java Developer
+
+This project was independently designed and developed to demonstrate backend development, database integration, authentication, role-based access control, and workflow system implementation.
+
+---
+
+## 📄 License
+
+This project is developed for academic and learning purposes.
+
+---
+
+⭐ If you found this project useful, please give it a star!
+
