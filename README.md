@@ -789,6 +789,7 @@ This project was developed as a full-stack web application demonstrating:
 ## 👩‍💻 Developed By
 
 **Sanika Muluk**
+
 Computer Engineering Student
 Full-Stack Java Developer
 
